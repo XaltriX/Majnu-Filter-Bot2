@@ -3,9 +3,16 @@
 # Ask Doubt on telegram @KingVJ01
 
 class script(object):
-    START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
-    
-ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴇᴀʀɴ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏɴᴇʏ...💸</b>"""
+    START_TXT = """<b><blockquote>🎬 𝘏𝘦𝘭𝘭𝘰 {} 👋</blockquote>
+
+🎥 <u>𝐌𝐎𝐕𝐈𝐄 𝐌𝐀𝐍𝐈𝐀 𝐏𝐑𝐎 𝐁𝐎𝐓</u>
+
+🍿 𝘐’𝘮 𝘺𝘰𝘶𝘳 𝘴𝘮𝘢𝘳𝘵 𝘮𝘰𝘷𝘪𝘦 𝘨𝘶𝘪𝘥𝘦 — 𝘣𝘶𝘪𝘭𝘵 𝘧𝘰𝘳 𝘮𝘰𝘷𝘪𝘦 𝘭𝘰𝘷𝘦𝘳𝘴.
+
+⭐️ 𝘔𝘰𝘷𝘪𝘦𝘴 • 𝘙𝘢𝘵𝘪𝘯𝘨𝘴 • 𝘙𝘦𝘷𝘪𝘦𝘸𝘴  
+🎞 𝘋𝘦𝘵𝘢𝘪𝘭𝘦𝘥 𝘐𝘯𝘧𝘰 • 𝘚𝘮𝘢𝘳𝘵 𝘙𝘦𝘤𝘰𝘮𝘮𝘦𝘯𝘥𝘢𝘵𝘪𝘰𝘯𝘴
+
+🔍 𝘛𝘺𝘱𝘦 𝘢 𝘮𝘰𝘷𝘪𝘦 𝘯𝘢𝘮𝘦 𝘵𝘰 𝘣𝘦𝘨𝘪𝘯…</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
@@ -752,5 +759,6 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
