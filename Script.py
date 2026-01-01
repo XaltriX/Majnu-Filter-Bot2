@@ -525,7 +525,7 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  How and what to do
 
- Step 1: Administer this VJ-FILTER-BOT bot to your group
+ Step 1: Administer this  bot to your group
 
  Step 2: Add your website and API
 
@@ -759,6 +759,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
 
